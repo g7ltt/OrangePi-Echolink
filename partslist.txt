@@ -1,0 +1,29 @@
+Partlist
+
+Exported from echo.sch at 4/21/2019 12:52
+
+EAGLE Version 9.3.2 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device        Package    Library    Sheet
+
+C1       470nF          C-EUC0805     C0805      resistor   1
+C2       470nF          C-EUC0805     C0805      resistor   1
+C3       100nF          C-EUC0805     C0805      resistor   1
+D1       1N4001         DIODE-DO41-10 DO41-10    diode      1
+R1       100K           R-EU_R0805    R0805      resistor   1
+R2       56K            R-EU_R0805    R0805      resistor   1
+R3       1K             R-EU_R0805    R0805      resistor   1
+R4       1K             R-EU_R0805    R0805      resistor   1
+R5       10K            R-EU_R0805    R0805      resistor   1
+R6       1K             R-US_R0805    R0805      resistor   1
+R7       1K             R-EU_R0805    R0805      resistor   1
+R8       2,2K           R-EU_R0805    R0805      resistor   1
+R9       10k            R-EU_R0805    R0805      resistor   1
+R10      0R             R-EU_R0805    R0805      resistor   1
+T1       BC847          BC847         SOT23      transistor 1
+T2       BC847          BC847         SOT23      transistor 1
+U$1                     DRA818A       DRA818A    dorji      1
+X1       BU-SMA-H       BU-SMA-H      BU-SMA-H   con-coax   1
+X2       OPI-ZERO-XDEB  OPI-ZERO-XDEB OPIOHATDEB OrangePi0  1
