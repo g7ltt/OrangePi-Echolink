@@ -1,4 +1,4 @@
-# OrangePi-Echolink
+# OrangePi Echolink
 Echolink transceiver for the Orange Pi
 
 ![finished device](https://github.com/g7ltt/OrangePi-Echolink/blob/main/IMG_20181129_122436.jpg)
